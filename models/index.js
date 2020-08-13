@@ -1,0 +1,16 @@
+const Admin = require('./Admin')
+
+require('./createConnection')
+require('./Admin')
+require('./Post')
+require('./TopPost')
+require('./Mood')
+require('./Msg')
+require('./Comment')
+/* 导出各个模型 */
+exports.Admin = require('./Admin.js')
+exports.Post = require('./Post.js')
+exports.TopPost = require('./TopPost.js')
+exports.Mood = require('./Mood.js')
+exports.Msg = require('./Msg.js')
+exports.Comment = require('./Comment.js')
