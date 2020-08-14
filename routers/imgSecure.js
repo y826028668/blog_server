@@ -13,7 +13,7 @@ module.exports = (req, res, next) => {
     referer = url.parse(referer).host
   }
   if(referer && host !== referer) {
-    req.url = '/img/funny.jpg'
+    req.url = './img/funny.jpg'
   }
   next()
 }

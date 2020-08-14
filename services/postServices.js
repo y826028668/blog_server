@@ -74,6 +74,7 @@ exports.getOnePost = async function (postId) {
   let find = await Post.findOne({_id: postId, isDelete: false})
   let num = find.views + 1
   await Post.updateOne({_id: postId, isDelete: false}, {views: num}, {runValidators: true})
+  find.content = JSON.stringify(find.content)
   return find
 }
 
