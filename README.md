@@ -2,7 +2,7 @@
 
 ## 项目简介
 这是一个简单的响应式的个人博客项目，界面ui是在国外网站扒的，带有打包好的前端页面数据，数据库所用数据均为mock的虚拟数据
-使用技术栈为：nodejs-express、mongodb-mongoose
+使用技术栈为：nodejs-express、mongodb-mongoose，这里是前端的代码，有兴趣的可以看看。```https://github.com/y826028668/blog_web.git```
 
 ## 运行说明
 1. 将本项目clone下来安装依赖后，需下载mongodb数据库
