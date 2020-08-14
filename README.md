@@ -11,4 +11,3 @@
 
 3. 打开mongodb服务然后npm start 访问localhost:1234页面就可以正常展示了
 
-![avatar](https://s1.ax1x.com/2020/08/14/diiOGd.png)
