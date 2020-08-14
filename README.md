@@ -10,3 +10,5 @@
 2. 将backup文件内备份的数据进行恢复
 
 3. 打开mongodb服务然后npm start 访问localhost:1234页面就可以正常展示了
+
+![avatar](https://imgchr.com/i/diiOGd)
