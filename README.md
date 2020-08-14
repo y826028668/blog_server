@@ -11,3 +11,13 @@
 
 3. 打开mongodb服务然后npm start 访问localhost:1234页面就可以正常展示了
 
+## 界面展示
+* PC
+![avatar](https://s1.ax1x.com/2020/08/14/dikvHf.png)
+![avatar](https://s1.ax1x.com/2020/08/14/diAp4g.png)
+![avatar](https://s1.ax1x.com/2020/08/14/dikzE8.png)
+![avatar](https://s1.ax1x.com/2020/08/14/dikXut.png)
+
+* Phone
+![avatar](https://s1.ax1x.com/2020/08/14/diASUS.png)
+![avatar](https://s1.ax1x.com/2020/08/14/diACCQ.png)
